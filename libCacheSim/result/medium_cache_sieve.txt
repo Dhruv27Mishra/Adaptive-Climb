@@ -1,0 +1,2 @@
+[32m[INFO]  06-07-2025 16:33:16 cli_parser.c:545  (tid=140254069855616): trace path: mydata/zipf/zipf_small.oracleGeneral.bin, trace_type ORACLE_GENERAL_TRACE, ofilepath zipf_small.oracleGeneral.bin.cachesim, 28 threads, warmup -1 sec, total 1 algo x 1 size = 1 caches, sieve, ignore object size
+[0mmydata/zipf/zipf_small.oracleGeneral.bin Sieve cache size     1GiB,          1000000 req, miss ratio 0.0100, throughput 85.85 MQPS

@@ -1,0 +1,6 @@
+data/trace.oracleGeneral.bin DynamicAdaptiveClimb cache size    10MiB,           113872 req, miss ratio 0.8154, throughput 0.11 MQPS
+
+data/trace.oracleGeneral.bin DynamicAdaptiveClimb cache size    50MiB,           113872 req, miss ratio 0.7758, throughput 0.05 MQPS
+
+data/trace.oracleGeneral.bin DynamicAdaptiveClimb cache size   100MiB,           113872 req, miss ratio 0.7169, throughput 0.05 MQPS
+

@@ -1,0 +1,2 @@
+[32m[INFO]  06-28-2025 14:30:38 cli_parser.c:553  (tid=140678916564352): trace path: /media/snu/7C76C4AC76C4690A/LibCacheSim/libCacheSim/data/trace.txt, trace_type PLAIN_TXT_TRACE, ofilepath trace.txt.cachesim, 1 threads, warmup -1 sec, total 1 algo x 1 size = 1 caches, ilru, trace-type-params: time-col=1,obj-id-col=2,obj-size-col=3,has-header=false,obj-id-is-num=true
+[0m

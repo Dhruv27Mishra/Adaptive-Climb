@@ -1,0 +1,6 @@
+mydata/zipf/zipf_small.oracleGeneral.bin Sieve cache size   100MiB,          1000000 req, miss ratio 0.0100, throughput 32.16 MQPS
+
+mydata/zipf/zipf_small.oracleGeneral.bin Sieve cache size     1GiB,          1000000 req, miss ratio 0.0100, throughput 85.85 MQPS
+
+mydata/zipf/zipf_small.oracleGeneral.bin Sieve cache size    10GiB,          1000000 req, miss ratio 0.0100, throughput 81.75 MQPS
+

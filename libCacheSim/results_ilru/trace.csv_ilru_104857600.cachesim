@@ -1,0 +1,5 @@
+[32m[INFO]  06-28-2025 14:30:37    csv.c:102  (tid=139797707109760): detect csv delimiter ,
+[0m[32m[INFO]  06-28-2025 14:30:37 cli_parser.c:553  (tid=139797707109760): trace path: /media/snu/7C76C4AC76C4690A/LibCacheSim/libCacheSim/data/trace.csv, trace_type CSV_TRACE, ofilepath trace.csv.cachesim, 1 threads, warmup -1 sec, total 1 algo x 1 size = 1 caches, ilru, trace-type-params: time-col=1,obj-id-col=2,obj-size-col=3,has-header=false,obj-id-is-num=true
+[0m[33m[WARN]  06-28-2025 14:30:37    csv.c:203  (tid=139797707109760): object id is not numeric time
+[0m[31m[ERROR] 06-28-2025 14:30:37    csv.c:217  (tid=139797707109760): csvReader obj_size is not a number: "op"
+[0m

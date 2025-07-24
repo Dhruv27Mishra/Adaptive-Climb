@@ -1,0 +1,2 @@
+[31m[ERROR] 06-07-2025 16:32:48 cache_init.h:167  (tid=140288035644800): do not support algorithm 3l-cache
+[0m

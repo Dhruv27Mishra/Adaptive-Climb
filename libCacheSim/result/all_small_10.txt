@@ -1,0 +1,17 @@
+[32m[INFO]  06-07-2025 16:37:14 cli_parser.c:545  (tid=140674999846272): trace path: mydata/zipf/zipf_small.oracleGeneral.bin, trace_type ORACLE_GENERAL_TRACE, ofilepath zipf_small.oracleGeneral.bin.cachesim, 28 threads, warmup -1 sec, total 14 algo x 1 size = 14 caches, belady, fifo, lru, clock, sieve, arc, lp-arc, cacheus, lecarv0, lhd, twoq, lirs, gdsf, wtinylfu, ignore object size
+[0m[32m[INFO]  06-07-2025 16:37:14 simulator.c:294  (tid=140674999846272): simulate_with_multi_caches starts computation, num_warmup_req 0, start cache Belady size 10, end cache WTinyLFU-w0.01-SLRU size 10, 14 caches, 28 threads, please wait
+[0m
+result/zipf_small.oracleGeneral.bin                           Belady cache size       10, 1000000 req, miss ratio 0.6702, byte miss ratio 0.6702
+result/zipf_small.oracleGeneral.bin                             FIFO cache size       10, 1000000 req, miss ratio 0.8869, byte miss ratio 0.8869
+result/zipf_small.oracleGeneral.bin                              LRU cache size       10, 1000000 req, miss ratio 0.8696, byte miss ratio 0.8696
+result/zipf_small.oracleGeneral.bin                            Clock cache size       10, 1000000 req, miss ratio 0.8580, byte miss ratio 0.8580
+result/zipf_small.oracleGeneral.bin                            Sieve cache size       10, 1000000 req, miss ratio 0.7383, byte miss ratio 0.7383
+result/zipf_small.oracleGeneral.bin                              ARC cache size       10, 1000000 req, miss ratio 0.7409, byte miss ratio 0.7409
+result/zipf_small.oracleGeneral.bin                     LP-ARC-Clock cache size       10, 1000000 req, miss ratio 0.7390, byte miss ratio 0.7390
+result/zipf_small.oracleGeneral.bin                          Cacheus cache size       10, 1000000 req, miss ratio 0.7540, byte miss ratio 0.7540
+result/zipf_small.oracleGeneral.bin                          LeCaRv0 cache size       10, 1000000 req, miss ratio 0.8377, byte miss ratio 0.8377
+result/zipf_small.oracleGeneral.bin                              LHD cache size       10, 1000000 req, miss ratio 0.7546, byte miss ratio 0.7546
+result/zipf_small.oracleGeneral.bin                             TwoQ cache size       10, 1000000 req, miss ratio 0.7526, byte miss ratio 0.7526
+result/zipf_small.oracleGeneral.bin                             LIRS cache size       10, 1000000 req, miss ratio 0.7371, byte miss ratio 0.7371
+result/zipf_small.oracleGeneral.bin                             GDSF cache size       10, 1000000 req, miss ratio 0.7721, byte miss ratio 0.7721
+result/zipf_small.oracleGeneral.bin              WTinyLFU-w0.01-SLRU cache size       10, 1000000 req, miss ratio 1.0000, byte miss ratio 1.0000

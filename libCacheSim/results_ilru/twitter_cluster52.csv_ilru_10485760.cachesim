@@ -1,0 +1,5 @@
+[32m[INFO]  06-28-2025 14:30:38    csv.c:102  (tid=139960337143168): detect csv delimiter ,
+[0m[32m[INFO]  06-28-2025 14:30:38 cli_parser.c:553  (tid=139960337143168): trace path: /media/snu/7C76C4AC76C4690A/LibCacheSim/libCacheSim/data/twitter_cluster52.csv, trace_type CSV_TRACE, ofilepath twitter_cluster52.csv.cachesim, 1 threads, warmup -1 sec, total 1 algo x 1 size = 1 caches, ilru, trace-type-params: time-col=1,obj-id-col=2,obj-size-col=3,has-header=false,obj-id-is-num=true
+[0m[33m[WARN]  06-28-2025 14:30:38    csv.c:203  (tid=139960337143168): object id is not numeric object
+[0m[31m[ERROR] 06-28-2025 14:30:38    csv.c:217  (tid=139960337143168): csvReader obj_size is not a number: "size"
+[0m
