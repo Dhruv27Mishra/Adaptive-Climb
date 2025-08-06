@@ -1,4 +1,4 @@
-# Adaptive Climb and Dynamic Adaptive Climb: Research Code Repository
+# AdaptiveClimb and DynamicAdaptiveClimb: Research Code Repository
 
 ---
 
